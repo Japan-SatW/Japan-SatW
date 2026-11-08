@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://github.com/Japan-SatW/Mr-puzzles-readme-yay/blob/3fb7cb4ebf2e266c560d3384f2c1ec7a2f9ae372/image-58ab-gradientmap.pro.png" width="300">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Japan-SatW&label=actors&color=blue&style=for-the-badge" alt="actors" />
+</p>
