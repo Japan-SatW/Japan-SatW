@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Japan-SatW&label=splendid%20guests&color=blue&style=flat" alt="actors">
+  <img src="https://komarev.com/ghpvc/?username=Japan-SatW&label=actors&color=blue&style=flat" alt="actors">
 </p>
